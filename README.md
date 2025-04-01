@@ -19,8 +19,7 @@ This project involves conducting a Cyber Threat Intelligence (CTI) analysis of a
 This project is licensed under the [MIT License](LICENSE).  
 
 ## 📞 Contact  
-For any inquiries or collaboration opportunities, reach out via:  
-📧 Email: mumovictor77@gmail.com  
+For any inquiries or collaboration opportunities, reach out via:    
 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/victor-prince-mvp19/)
 
 ## 🔍 References  
