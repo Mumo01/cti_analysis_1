@@ -5,13 +5,13 @@ This project involves conducting a Cyber Threat Intelligence (CTI) analysis of a
 <br>-<img src= "https://github.com/user-attachments/assets/3ada8e21-bd7b-44a1-9444-f03b672060c1" height="80%" width="80%" alt=""/><br>
 
 ### The Workflow 
-[View the Workflow](https://github.com/Mumo01/cti_analysis_1/PhishingWorkflow.pdf)
+[View the Workflow](https://github.com/Mumo01/cti_analysis_1/blob/Main/PhishingWorkflow.pdf)
 
 ### The CTI Report
-[View the CTI Report](https://github.com/Mumo01/cti_analysis_1/CTIReportVictorMumo.pdf)
+[View the CTI Report](https://github.com/Mumo01/cti_analysis_1/blob/Main/CTIReportVictorMumo.pdf)
 
 ### The C-Suite and Legal Report
-[View the C-Suite and Legal Report](https://github.com/Mumo01/cti_analysis_1/C-SuiteLegalCTIReport.pdf)
+[View the C-Suite and Legal Report](https://github.com/Mumo01/cti_analysis_1/blob/Main/C-SuiteLegalCTIReport.pdf)
 
 ---
 
